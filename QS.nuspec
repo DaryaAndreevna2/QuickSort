@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>QuickSotring</id>
+    <version>1.0.0</version>
+    <authors>Дарья Тюнёва</authors>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <projectUrl>https://github.com/DaryaAndreevna2/QuickSort</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Реализация алгоритма быстрой сортировки</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
